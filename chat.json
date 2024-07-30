@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Hello World' button placed in relation to the sidebar with navlinks?\", \"option1\": \"Above the sidebar\", \"option2\": \"Below the sidebar\"}, {\"question 2\": \"Do you have a specific style in mind for the 'Hello World' button, such as color or size?\", \"option1\": \"Yes, I have specific styling preferences\", \"option2\": \"No, use the default styling\"}], \"input_token_count\": 340, \"output_token_count\": 105, \"time_taken\": \"0:00:02.731713\"}",
+        "message_id": "guest30072024131831",
+        "timestamp": "30072024131835",
+        "component_file_name": "purple_header_component_1722345270",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"Sure, I'll add a button that says 'Hello World'.\"",
         "message_id": "guest30072024131831",
