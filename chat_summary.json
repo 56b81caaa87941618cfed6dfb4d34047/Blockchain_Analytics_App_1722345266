@@ -12,5 +12,11 @@
         "content": "add a sidebar with the navlinks home, about and contact us",
         "timestamp": "30072024131622",
         "message_id": "guest30072024131622"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a sidebar with the navlinks.",
+        "timestamp": "30072024131624",
+        "message_id": "guest30072024131622"
     }
 ]
