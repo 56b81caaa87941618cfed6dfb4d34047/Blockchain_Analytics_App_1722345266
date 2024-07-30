@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the sidebar to be always visible or should it auto-hide when not in use?\", \"option1\": \"Always visible\", \"option2\": \"Auto-hide\"}, {\"question 2\": \"Should the sidebar be positioned on the left or the right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 267, \"output_token_count\": 87, \"time_taken\": \"0:00:03.346620\"}",
+        "message_id": "guest30072024131858",
+        "timestamp": "30072024131902",
+        "component_file_name": "dark_footer_component_1722345270",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great idea! Adding a sidebar with home, about, and contact us.",
         "message_id": "guest30072024131858",
