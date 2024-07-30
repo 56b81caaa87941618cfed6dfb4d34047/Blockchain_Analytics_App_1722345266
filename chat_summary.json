@@ -18,5 +18,11 @@
         "content": "Sure, I'll add a sidebar with the navlinks.",
         "timestamp": "30072024131624",
         "message_id": "guest30072024131622"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be fixed or collapsible?\", \"option1\": \"Fixed\", \"option2\": \"Collapsible\"}, {\"question 2\": \"Should the sidebar's appearance match the current design theme or are you open to a new design for it?\", \"option1\": \"Match the current theme\", \"option2\": \"Open to a new design\"}], \"input_token_count\": 267, \"output_token_count\": 89, \"time_taken\": \"0:00:02.408974\"}",
+        "timestamp": "30072024131626",
+        "message_id": "guest30072024131622"
     }
 ]
