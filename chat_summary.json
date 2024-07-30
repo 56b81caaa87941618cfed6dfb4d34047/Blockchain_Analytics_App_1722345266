@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable menus for subcategories under Home, About, and Contact Us for better organization\", \"checked\": false}, {\"feature\": \"Dynamic search bar in the sidebar for quick navigation\", \"checked\": true}, {\"feature\": \"User customization settings in the sidebar for theme and notification preferences\", \"checked\": false}, {\"feature\": \"New Updates or News section to keep users informed about blockchain advancements\", \"checked\": true}, {\"feature\": \"Quick access to recent searches or bookmarked pages\", \"checked\": false}, {\"feature\": \"Integration of social media links for easy sharing and connectivity\", \"checked\": true}], \"input_token_count\": 221, \"output_token_count\": 129, \"time_taken\": \"0:00:05.657507\"}",
         "timestamp": "30072024131630",
         "message_id": "guest30072024131622"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "30072024131802",
+        "message_id": "guest30072024131802"
     }
 ]
