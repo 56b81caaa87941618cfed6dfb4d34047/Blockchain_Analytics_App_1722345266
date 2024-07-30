@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable menus for subcategories under Home, About, and Contact Us for better organization\", \"checked\": false}, {\"feature\": \"Dynamic search bar in the sidebar for quick navigation\", \"checked\": true}, {\"feature\": \"User customization settings in the sidebar for theme and notification preferences\", \"checked\": false}, {\"feature\": \"New Updates or News section to keep users informed about blockchain advancements\", \"checked\": true}, {\"feature\": \"Quick access to recent searches or bookmarked pages\", \"checked\": false}, {\"feature\": \"Integration of social media links for easy sharing and connectivity\", \"checked\": true}], \"input_token_count\": 221, \"output_token_count\": 129, \"time_taken\": \"0:00:05.657507\"}",
+        "message_id": "guest30072024131622",
+        "timestamp": "30072024131630",
+        "component_file_name": "purple_background_cta_component_1722345270",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be fixed or collapsible?\", \"option1\": \"Fixed\", \"option2\": \"Collapsible\"}, {\"question 2\": \"Should the sidebar's appearance match the current design theme or are you open to a new design for it?\", \"option1\": \"Match the current theme\", \"option2\": \"Open to a new design\"}], \"input_token_count\": 267, \"output_token_count\": 89, \"time_taken\": \"0:00:02.408974\"}",
         "message_id": "guest30072024131622",
